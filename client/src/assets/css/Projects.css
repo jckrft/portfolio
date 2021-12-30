@@ -8,6 +8,7 @@
 
 .name-1 {
   font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 20px;
 }
 
 .link-1 {
@@ -46,4 +47,10 @@
 
 .test {
   size: 20px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .blob-box {
+    display: block;
+  }
 }

@@ -1,6 +1,6 @@
 import "./App.css";
 import {Route, Routes} from 'react-router-dom'
-import Landing from "./components/Landing";
+import Footer from "./components/Footer";
 import Projects from "./components/Projects";
 import About from "./components/About";
 import Contact from "./components/Contact";
@@ -14,10 +14,10 @@ function App() {
         <Route exact path="/about" element={<About />} />
         <Route exact path="/contact" element={<Contact />} />
       </Routes> */}
-      <Landing />
       <About />
       <Projects />
       <Contact />
+      <Footer />
     </div>
   );
 }

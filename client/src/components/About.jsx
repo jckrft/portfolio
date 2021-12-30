@@ -6,7 +6,9 @@ export default function About() {
   return (
     <div>
       <p>Hi! I'm Jackie</p>
-      <a href={resume} target="_blank">
+      <a href={resume}
+        target="_blank"
+        rel="noreferrer">
         resume
       </a>
 
