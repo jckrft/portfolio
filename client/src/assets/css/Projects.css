@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Mrs+Saint+Delafield&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=IM+Fell+English&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.blob-box {
+  display: flex;
+}
+
+.name-1 {
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+
+.link-1 {
+  font-size: x-small;
+}
+
+.github-1 {
+  font-size: x-small;
+}
+
+.name-2 {
+  font-family: 'IM Fell English', serif;
+  color: whitesmoke;
+}
+
+.link-2 {
+  font-size: x-small;
+}
+
+.github-2 {
+  font-size: x-small;
+}
+
+.name-3{
+  font-family: 'Abel', sans-serif;
+  color: grey;
+}
+
+.link-3 {
+  font-size: x-small;
+}
+
+.github-3 {
+  font-size: x-small;
+}
+
+.test {
+  size: 20px;
+}
