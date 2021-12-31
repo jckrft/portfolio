@@ -1,4 +1,93 @@
-.landing {
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+/* .landing-div {
+  display: flex;
+  margin-left: 420px;
+  margin-right: auto;
+} */
+
+.greeting {
+  /* width: 120px; */
+  display: inline-block;
+}
+
+.hi {
+  font-family: "Bebas Neue", cursive;
+  margin: 0;
+  font-size: 10rem;
+  height: 120px;
+  width: 120px;
+  letter-spacing: 10px;
+}
+
+.im {
+  font-family: "Bebas Neue", cursive;
+  margin: 0;
+  font-size: 10rem;
+  width: 120px;
+}
+
+.jackie {
+  font-family: "Bebas Neue", cursive;
+  margin: 0;
+  /* width: 400px;
+  height: 207px; */
+  /* display: inline; */
+  font-size: 10rem;
+  padding-left: 60px;
+  letter-spacing: 1rem;
+}
+
+.name-description {
+  /* width: 120px; */
+  display: inline-block;
+}
+
+.description {
+  font-family: "Bebas Neue", cursive;
+  margin: 0;
+  padding-left: 10px;
+  font-size: 4rem;
+  width: 500px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+
+/* .landing {
+  display: inline-block;
+} */
+
+.greeting {
+  width: 70px;
+}
+
+.hi {
+  font-size: 5rem;
+  height: 70px;
+  width: 70px;
+}
+
+.im {
+  font-size: 5rem;
+  height: 70px;
+  width: 70px;
+}
+
+.jackie {
+  display: inline-block;
+  font-size: 5rem;
+  padding-left: 10px;
+  letter-spacing: normal;
+  width: 170px;
+}
+
+.description {
+  font-size: 1.45rem;
+  width: auto;
+}
+}
+
+/* .landing {
   position: absolute;
 }
 
@@ -8,4 +97,4 @@
 .flower {
   position: absolute;
   height: 500px;
-}
+} */

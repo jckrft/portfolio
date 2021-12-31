@@ -4,6 +4,7 @@
 
 .blob-box {
   display: flex;
+  padding-top: 280px;
   /* background-color: #5f6588; */
 }
 

@@ -1,0 +1,27 @@
+.about-image {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  margin-bottom: 200px;
+}
+
+.about {
+  position: absolute;
+  width: 70%;
+  display: inline-block;
+  border: solid black 1px;
+  border-radius: 12px;
+}
+
+.about-detail {
+  padding: 0 17px;
+}
+
+.img-me {
+  position: absolute;
+  height: 200px;
+  border: solid black 1px;
+  border-bottom: 0px;
+  border-radius: 100%;
+}
