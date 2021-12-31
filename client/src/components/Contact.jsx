@@ -1,8 +1,8 @@
-import React from "react";
+import '../assets/css/Contact.css';
 
 export default function Contact() {
   return (
-    <div>
+    <div className="contact-links">
       <a href="mailto:jckrft@gmail.com" target="_blank">
         contact me | 
       </a>

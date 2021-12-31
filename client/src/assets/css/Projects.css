@@ -4,7 +4,7 @@
 
 .blob-box {
   display: flex;
-  padding-top: 280px;
+  padding-top: 100px;
   /* background-color: #5f6588; */
 }
 
@@ -54,5 +54,6 @@
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .blob-box {
     display: block;
+    padding-top: 50px;
   }
 }
