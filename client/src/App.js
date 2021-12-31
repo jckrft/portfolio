@@ -1,9 +1,10 @@
 import "./App.css";
 import {Route, Routes} from 'react-router-dom'
-import Footer from "./components/Footer";
+import Landing from "./components/Landing";
 import Projects from "./components/Projects";
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route exact path="/about" element={<About />} />
         <Route exact path="/contact" element={<Contact />} />
       </Routes> */}
+      <Landing />
       <About />
       <Projects />
       <Contact />

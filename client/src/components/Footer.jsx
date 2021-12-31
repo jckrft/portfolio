@@ -1,9 +1,9 @@
-import React from "react";
+import "../assets/css/Footer.css";
 
 export default function Footer() {
   return (
     <div>
-      <p className="copywrite" style={{ color: "white", padding: "10px" }}>
+      <p className="copywrite">
         © jckrft 2021
       </p>
     </div>
