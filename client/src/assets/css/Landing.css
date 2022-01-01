@@ -18,6 +18,8 @@
   height: 120px;
   width: 120px;
   letter-spacing: 8.5px;
+  -webkit-text-fill-color: #f2e9e4;
+  -webkit-text-stroke: .5px black;
 }
 
 .im {
@@ -25,6 +27,8 @@
   margin: 0;
   font-size: 10rem;
   width: 120px;
+  /* -webkit-text-fill-color: #f2e9e4;
+  -webkit-text-stroke: .5px #22223B; */
 }
 
 .jackie {
@@ -36,6 +40,8 @@
   font-size: 10rem;
   padding-left: 60px;
   letter-spacing: 1rem;
+  /* -webkit-text-fill-color: #f2e9e4;
+  -webkit-text-stroke: .5px #22223B; */
 }
 
 .name-description {
@@ -49,6 +55,9 @@
   padding-left: 50px;
   font-size: 4rem;
   width: 450px;
+  /* color: white; */
+  /* -webkit-text-fill-color: white;
+  -webkit-text-stroke: .5px #22223B; */
 }
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 480px) {

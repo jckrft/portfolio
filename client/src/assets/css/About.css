@@ -16,10 +16,11 @@
 
 .about-detail {
   padding: 0 17px;
+  font-size: 20px;
 }
 
 .img-me {
-  height: 200px;
+  height: 300px;
   border: solid black 1px;
   /* border-bottom: 0px; */
   border-radius: 10px;

@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import resume from "../assets/files/resume.pdf";
-import me from "../assets/images/me_full.JPG";
+import me from "../assets/images/me_full.jpeg";
 import "../assets/css/About.css";
 
 export default function About() {

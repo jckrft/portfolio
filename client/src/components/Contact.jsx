@@ -6,7 +6,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 export default function Contact() {
   return (
     <div className="contact">
-      <p className="connect">let's connect!</p>
+      <p className="connect"> let's connect!</p>
       <div className="contact-links">
       <a className="external-link" href="mailto:jckrft@gmail.com" target="_blank">
         <MailOutlineIcon />
