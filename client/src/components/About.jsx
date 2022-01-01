@@ -25,7 +25,7 @@ export default function About() {
           to my career, as well as my personal life. Tenacious and always up for
           something new, bring it on!
         </p>
-        <a href={resume} target="_blank" rel="noreferrer">
+        <a className="resume" href={resume} target="_blank" rel="noreferrer">
           resume
         </a>
       </div>

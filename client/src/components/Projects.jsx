@@ -12,16 +12,22 @@ export default function Projects() {
               d="M58.2,-47.5C67.4,-34.8,61.4,-11.1,53.5,7.6C45.6,26.4,35.8,40.1,20.5,50.5C5.2,60.9,-15.5,68.1,-31.3,61.7C-47,55.4,-57.8,35.5,-62.1,14.7C-66.4,-6,-64.2,-27.7,-52.7,-40.9C-41.3,-54.1,-20.7,-58.8,1.9,-60.3C24.5,-61.8,49,-60.2,58.2,-47.5Z"
               transform="translate(100 100)"
             />
-            <text x="52" y="70" className="name-1">
+            <text x="52" y="65" className="name-1">
               what is your story?
             </text>
+            <text x="42" y="82">Full stack app that allows the user to</text>
+            <text x="40" y="92">practice creative writing by creating</text>
+            <text x="40" y="102">and adding to prompts. Only an</text>
+            <text x="42" y="112">authenicated user can edit or</text>
+            <text x="44" y="122">delete their own work. Built</text>
+            <text x="46" y="132">with React and Ruby on Rails</text>
             <a
               className="external-link"
               href="https://github.com/jckrft/what-is-your-story"
               target="_blank"
               rel="noreferrer"
             >
-              <text x="85" y="150" className="github-1">
+              <text x="85" y="148" className="github-1">
                 github
               </text>
             </a>
@@ -31,7 +37,7 @@ export default function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              <text x="63" y="150" className="link-1">
+              <text x="63" y="148" className="link-1">
                 link |
               </text>
             </a>
@@ -45,9 +51,15 @@ export default function Projects() {
               d="M51.5,-41.3C65.5,-23.6,74.7,-2.2,69.7,14.3C64.7,30.9,45.4,42.6,24.7,53.5C3.9,64.4,-18.4,74.5,-34.7,68.1C-51.1,61.8,-61.5,39.1,-63.2,18.3C-64.9,-2.6,-57.9,-21.6,-45.9,-38.9C-33.9,-56.3,-17,-71.9,0.9,-72.7C18.8,-73.4,37.5,-59.1,51.5,-41.3Z"
               transform="translate(100 100)"
             />
-            <text x="70" y="70" className="name-2">
+            <text x="65" y="65" className="name-2">
               the library
             </text>
+            <text x="42" y="82">Full stack app that allows the user to</text>
+            <text x="40" y="92">practice creative writing by creating</text>
+            <text x="40" y="102">and adding to prompts. Only an</text>
+            <text x="42" y="112">authenicated user can edit or</text>
+            <text x="44" y="122">delete their own work. Built</text>
+            <text x="46" y="132">with React and Ruby on Rails</text>
             <a
               className="external-link"
               href="https://jasz-library.netlify.app"

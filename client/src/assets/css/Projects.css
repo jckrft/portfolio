@@ -8,6 +8,10 @@
   /* background-color: #5f6588; */
 }
 
+text {
+  font-size: 7.5px;
+}
+
 .name-1 {
   font-family: 'Mrs Saint Delafield', cursive;
   font-size: 20px;
@@ -23,7 +27,7 @@
 
 .name-2 {
   font-family: 'IM Fell English', serif;
-  color: whitesmoke;
+  font-size: 18px;
 }
 
 .link-2 {
@@ -36,7 +40,7 @@
 
 .name-3{
   font-family: 'Abel', sans-serif;
-  color: grey;
+  font-size: 15px;
 }
 
 .link-3 {

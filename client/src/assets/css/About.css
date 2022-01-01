@@ -14,11 +14,21 @@
   border-radius: 12px;
   background-color: rgba(255, 255, 255, 0.632);
   backdrop-filter: blur(5px);
+  text-align: right;
 }
 
 .about-detail {
   padding: 0 17px;
   font-size: 20px;
+  text-align: justify;
+  margin: 20px 0 10px 0;
+
+}
+
+.resume {
+  padding-right: 17px;
+  color: black;
+  font-weight: bold;
 }
 
 .img-me {
@@ -36,6 +46,10 @@
   .about {
     width: 300px;
     border: none;
+  }
+
+  .about-detail {
+    margin: 10px 0 10px 0;
   }
 
   .img-me {
