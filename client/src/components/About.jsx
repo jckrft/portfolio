@@ -1,15 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import resume from "../assets/files/resume.pdf";
-import me from "../assets/images/me.png";
+import me from "../assets/images/me_full.JPG";
 import "../assets/css/About.css";
 
 export default function About() {
   return (
     <div className="about-image">
-      {/* <div>
+      <div>
         <img className="img-me" src={me} alt="me" />
-      </div> */}
+      </div>
       <div className="about">
         <p className="about-detail">
           the U.S. government and my mother call me Jacquelyn, but it's a bit

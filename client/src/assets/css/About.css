@@ -1,5 +1,5 @@
 .about-image {
-  position: relative;
+  /* position: relative; */
   display: flex;
   justify-content: center;
   padding: 100px;
@@ -7,7 +7,7 @@
 }
 
 .about {
-  position: absolute;
+  /* position: absolute; */
   width: 70%;
   display: inline-block;
   border: solid black 1px;
@@ -19,9 +19,25 @@
 }
 
 .img-me {
-  position: absolute;
   height: 200px;
   border: solid black 1px;
-  border-bottom: 0px;
-  border-radius: 100%;
+  /* border-bottom: 0px; */
+  border-radius: 10px;
+}
+
+@media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
+  .about-image {
+    display:contents;
+  }
+
+  .about {
+    width: 300px;
+  }
+
+  .img-me {
+    width: 300px;
+    height: auto;
+    padding-top: 20px;
+    margin-top: 50px;
+  }
 }
