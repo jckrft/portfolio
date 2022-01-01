@@ -10,8 +10,10 @@
   /* position: absolute; */
   width: 70%;
   display: inline-block;
-  border: solid black 1px;
+  border: solid black .1px;
   border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.632);
+  backdrop-filter: blur(5px);
 }
 
 .about-detail {
@@ -21,7 +23,7 @@
 
 .img-me {
   height: 300px;
-  border: solid black 1px;
+  border: solid black .1px;
   /* border-bottom: 0px; */
   border-radius: 10px;
 }
@@ -33,11 +35,13 @@
 
   .about {
     width: 300px;
+    border: none;
   }
 
   .img-me {
     width: 300px;
     height: auto;
     margin-top: 50px;
+    border: none;
   }
 }

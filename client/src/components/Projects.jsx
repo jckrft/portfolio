@@ -17,8 +17,9 @@ export default function Projects() {
             </text>
             <a
               className="external-link"
-              href="https://github.com/what-is-your-story"
+              href="https://github.com/jckrft/what-is-your-story"
               target="_blank"
+              rel="noreferrer"
             >
               <text x="85" y="150" className="github-1">
                 github
@@ -28,6 +29,7 @@ export default function Projects() {
               className="external-link"
               href="https://whatisyourstory.netlify.app"
               target="_blank"
+              rel="noreferrer"
             >
               <text x="63" y="150" className="link-1">
                 link |
@@ -50,6 +52,7 @@ export default function Projects() {
               className="external-link"
               href="https://jasz-library.netlify.app"
               target="_blank"
+              rel="noreferrer"
             >
               <text x="62" y="150" className="link-2">
                 link |
@@ -57,8 +60,9 @@ export default function Projects() {
             </a>
             <a
               className="external-link"
-              href="https://github.com/JASZ-library"
+              href="https://github.com/jckrft/JASZ-library"
               target="_blank"
+              rel="noreferrer"
             >
               <text x="85" y="150" className="github-2">
                 github
@@ -80,6 +84,7 @@ export default function Projects() {
               className="external-link"
               href="https://netherzone.netlify.app"
               target="_blank"
+              rel="noreferrer"
             >
               <text x="85" y="150" className="link-3">
                 link |
@@ -87,8 +92,9 @@ export default function Projects() {
             </a>
             <a
               className="external-link"
-              href="https://github.com/nether-zone"
+              href="https://github.com/jckrft/nether-zone"
               target="_blank"
+              rel="noreferrer"
             >
               <text x="108" y="150" className="github-3">
                 github

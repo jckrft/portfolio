@@ -1,7 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import resume from "../assets/files/resume.pdf";
-import me from "../assets/images/me_full.jpeg";
+import me from "../assets/images/me.JPG";
 import "../assets/css/About.css";
 
 export default function About() {
@@ -29,6 +28,11 @@ export default function About() {
         <a href={resume} target="_blank" rel="noreferrer">
           resume
         </a>
+      </div>
+      <div>
+      <i class="devicon-html5-plain-wordmark"></i>
+
+
       </div>
     </div>
   );
