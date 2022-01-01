@@ -17,8 +17,8 @@ function App() {
       </Routes> */}
       <Landing />
       <About />
-      <Contact />
       <Projects />
+      <Contact />
       <Footer />
     </div>
   );
