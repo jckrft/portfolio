@@ -1,5 +1,23 @@
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-.contact-links {
-  padding-top: 505px;
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+.connect {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  letter-spacing: 1rem;
 }
+
+.external-link {
+  color: black;
+
+}
+
+.MuiSvgIcon-root {
+  transform: scale(2);
+  padding: 50px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+/* .contact {
+  padding-top: 505px;
+} */
 }
