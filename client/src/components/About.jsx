@@ -29,11 +29,11 @@ export default function About() {
           resume
         </a>
       </div>
-      <div>
+      {/* <div>
       <i class="devicon-html5-plain-wordmark"></i>
 
 
-      </div>
+      </div> */}
     </div>
   );
 }

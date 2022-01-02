@@ -97,7 +97,6 @@ export default function Projects() {
             <text x="46" y="105">quotes from the main character</text>
             <text x="44" y="115">and add their own. Front-end app</text>
             <text x="48" y="125">built using React and airtable.</text>
-            {/* <text x="44" y="132">team of 4 developers using gitflow.</text> */}
             <a
               className="external-link"
               href="https://netherzone.netlify.app"
