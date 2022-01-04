@@ -55,11 +55,11 @@
   padding-left: 50px;
   font-size: 4rem;
   width: 450px;
-  color: white;
+  color: whitesmoke;
   text-shadow: rgba(128, 128, 128, 0.632) 2px 2px;
 
-  /* -webkit-text-fill-color: white;
-  -webkit-text-stroke: .5px #22223B; */
+  /* -webkit-text-fill-color: white; */
+  -webkit-text-stroke: .5px rgba(128, 128, 128, 0.632);
 }
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
