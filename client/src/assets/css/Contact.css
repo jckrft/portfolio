@@ -7,14 +7,26 @@
   text-shadow: rgba(128, 128, 128, 0.632) 2px 2px;
 }
 
-.external-link {
+.external-link-email{
   color: black;
+  padding: 50px;
+
+}
+
+.external-link-linkedin{
+  color: black;
+  padding: 50px;
+
+}
+
+.external-link-github{
+  color: black;
+  padding: 50px;
 
 }
 
 .MuiSvgIcon-root {
   transform: scale(2);
-  padding: 50px;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
@@ -22,7 +34,21 @@
   letter-spacing: 2.5px;
 }
 
-.MuiSvgIcon-root {
+.external-link-email{
+  color: black;
   padding: 25px;
+
+}
+
+.external-link-linkedin{
+  color: black;
+  padding: 25px;
+
+}
+
+.external-link-github{
+  color: black;
+  padding: 25px;
+
 }
 }

@@ -8,11 +8,11 @@ export default function Contact() {
     <div className="contact">
       <p className="connect"> let's connect!</p>
       <div className="contact-links">
-      <a className="external-link" href="mailto:jckrft@gmail.com" target="_blank" rel="noreferrer">
+      <a className="external-link-email" href="mailto:jckrft@gmail.com" target="_blank" rel="noreferrer">
         <MailOutlineIcon />
       </a>
       <a
-        className="external-link"
+        className="external-link-linkedin"
         href="https://www.linkedin.com/in/jckrft/"
           target="_blank"
           rel="noreferrer"
@@ -20,7 +20,7 @@ export default function Contact() {
         <LinkedInIcon />
       </a>
       <a
-        className="external-link"
+        className="external-link-github"
         href="https://github.com/jckrft"
           target="_blank"
           rel="noreferrer"
